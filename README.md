@@ -2,6 +2,11 @@
   <a href="https://flowus.cn/wdzyk/share/f03cf2e4-efd3-4408-90f7-f13fc092254e"><img width="100px" alt="logo" src="https://pan.tenire.com/view.php/e782348fe6efc4508ee3517d859e8e04.jpg"/>
  
 <div align="left">  
+  <h3>
+  JsHD调试器 - 体验手机端的F12
+</h3>
+- 🚀 手机端可视化调试页面
+- 💎 一键生成Js代码
   
 ### 软件发布页
 晚の资源库是由晚wan开发的一个资源库类的软件。<br>
