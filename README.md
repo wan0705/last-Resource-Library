@@ -58,16 +58,11 @@
 *   欣赏简洁清新界面设计的用户。
 
 **总结：**
-“晚的资源库Pro”不仅仅是一个简单的资源集合站，更是一个融合了**信息获取、娱乐内容、效率工具**的综合性平台。其**1.0.5 Alpha版本**带来的界面革新（发现页、个人页、清新主题）、功能增强（编码工具、动漫图集、短视频解析、双接口早报）和稳定性提升（BUG修复、页面重构），标志着它正朝着更强大、更稳定、更用户友好的方向快速发展。如果你需要一个功能丰富、界面养眼且持续更新的“万能工具箱”，晚的资源库Pro是一个非常值得尝试的选择。
+“晚的资源库Pro”不仅仅是一个简单的资源集合站，更是一个融合了**信息获取、娱乐内容、效率工具**的综合性平台。其**1.0.5版本**带来的界面革新（发现页、个人页、清新主题）、功能增强（编码工具、动漫图集、短视频解析、双接口早报）和稳定性提升（BUG修复、页面重构），标志着它正朝着更强大、更稳定、更用户友好的方向快速发展。如果你需要一个功能丰富、界面养眼且持续更新的“万能工具箱”，晚的资源库Pro是一个非常值得尝试的选择。
 
 **获取方式：**
-请注意，“晚的资源库Pro”通常**不**在主流官方应用商店（如苹果App Store、华为应用市场等）上架。用户需要通过开发者提供的官方渠道（如官网、官方公众号、特定分发平台）下载安装包（APK文件）进行安装。请在可信赖的来源获取，安装时注意设备安全设置。
-
----
-
-### 下载与安装
-- [QQ群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uwsKwYOHuNdrr7jXNk4HI-VG2qBG-xJ6&authKey=QoKdEGe%2FY0Pxc3IczCHm%2FgSfecByLJjfBG6Hbj%2FuWTFoRMl5QCMqlL5JlOsZ94ct&noverify=0&group_code=773526766)
-- [123云盘](https://www.123pan.com/s/63nZVv-yEyMd.html)
+###- [QQ群聊](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=uwsKwYOHuNdrr7jXNk4HI-VG2qBG-xJ6&authKey=QoKdEGe%2FY0Pxc3IczCHm%2FgSfecByLJjfBG6Hbj%2FuWTFoRMl5QCMqlL5JlOsZ94ct&noverify=0&group_code=773526766)
+###- [123云盘](https://www.123pan.com/s/63nZVv-yEyMd.html)
 
 ---
 
